@@ -1,30 +1,32 @@
-<img src="https://github-readme-stats.vercel.app/api?username=erdemir123&show_icons=true&theme=tokyonight" align='right' width="55%">
+# Hi there, <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "40" align="center"> Nice to see you. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> <img align="right" src="https://github.com/enes9103/enes9103/blob/main/geek.gif" width="300"/>
 
-# Hi there 👋 Sadık here! Loves developing..
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=erdemir123" alt="erdemir123" /> </p>
-📩 Connect with me:
-<br>
-<a href="https://www.linkedin.com/in/sad%C4%B1k-erdemir/" target="_blank">
+ <p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Fullstack+Developer;I'm+a+Frontend+Developer;I'm+a+React+Developer" /></a>
+</p>
+ <a href="https://www.linkedin.com/in/sad%C4%B1k-erdemir/" target="_blank">
     <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/sad%C4%B1k-erdemir/">
 </a>
-<a href="mailto:sadikerdemir93@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:sadikerdemir93@gmail.com">
+ <a href="mailto:sadıkerdemir93" target="_blank">
+    <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:sadıkerdemir93">
 </a>
-<a>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" align='left' width="20%" alt="react">
-</a>    
+ <br>
 
-### 📑 I'm currently doing front and backend development (HTML || CSS || SASS || BOOSTRAP || TAİLWİND || JAVASCRİPT | REACT)
+### 📑 I'm currently doing front and backend development (Javascript | React.js | Next.js | Python | Django)
+- 🌱 I’m currently learning **To be Extroverted**
 - 👨🏼‍🤝‍👨🏻 I want to collaborate on open source projects
-- 🥅 Goals: Develop application projects useful to humanity and to participate in these projects in the world.
-- ⚡ Fun fact: i like to play amateur football, running and drive a car .
+- 🥅 Goals: Developing an app to be heard in the world and learning virtual reality and artificial intelligence 🤖
+- ⚡ Fun fact: I love to running , play chess ♟and cycling 🚴‍♀️
 - 💬 You can ask me anything you want to know
 
-
 #### ⏲ What we are doing now:
-- 🚀 I'm improving myself right now 📃.
+- 🚀 I'm developing a project for Teknofest, i keep improving myself 📃.
 - 👨🏼‍🤝‍👨🏻 I'm developing an app with my team, 
 - 💻 I also work as a FreeLancer.
+<br>
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="64" align="center"><b>Connect with me:</b></p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=erdemir123&show_icons=true&theme=tokyonight" align='right' width="55%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" align='left' width="20%" alt="react">
 
 ###### 🔧 Languages and Tools:
 
@@ -42,7 +44,7 @@
 [react]: https://tr.reactjs.org/
 [vsCode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
-[github]: https://github.com/enes9103
+[github]: https://github.com/erdemir123
 [python]: https://www.python.org/
 [js]: https://www.javascript.com/
 [linux]: https://www.linux.org/
